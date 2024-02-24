@@ -1,0 +1,16 @@
+@media screen and (max-width:550px)
+{
+#designcontainer{
+    width:300px;
+}
+#li{
+    width: 300px;
+}
+#hd{
+    font-size: 20px;
+    width:500px;
+}
+#spec{
+    width:500px;
+}
+}
